@@ -171,3 +171,10 @@ button{
   align-items:center;
   padding: 50px;
 }
+.video {
+  display: flex;
+  justify-content: space-between;
+  align-items:center;
+  padding: 100px;
+
+}
