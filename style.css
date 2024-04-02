@@ -82,6 +82,7 @@ nav {
   .mobile-menu {
     display: block;
     transform: translateX(100%);
+    overflow-x: hidden;
   }
 }
 
