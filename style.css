@@ -81,6 +81,7 @@ nav {
   }
   .mobile-menu {
     display: block;
+    transform: translateX(100%);
   }
 }
 
